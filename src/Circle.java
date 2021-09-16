@@ -18,9 +18,8 @@ class circledemo{
     public static void main(String[] args) {
 //        Create the object of a circle.
         Circle a= new Circle();
-        a.x=0.0;
-        a.y=0.0;
-        a.r=5.0;
+//        initiliaze the value
+        a.x=0.0;  a.y=0.0;  a.r=5.0;
         System.out.println("Circumference is: " +a.circumference());
         System.out.println("Area is: " +a.Area());
     }
