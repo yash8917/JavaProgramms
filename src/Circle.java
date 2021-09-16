@@ -4,15 +4,11 @@ public class Circle {
     double circumference(){
         return 2*3.14159*r;
     }
-
-
     //    create a mathod which returns the area of a circle.
     double Area(){
         return((22/7)*r*r);
     }
 }
-
-
 class circledemo{
 
     public static void main(String[] args) {
