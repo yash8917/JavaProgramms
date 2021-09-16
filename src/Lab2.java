@@ -9,7 +9,8 @@ public void show()
 public class Lab2 {
     public static void main(String[] args) {
         Demo obj=new Demo();
-//        new Emp().show();//Annonynous obj. use only for single time
+//        new Emp().show();
+// Annonynous obj. use only for single time
         obj.show();
     }
 }
