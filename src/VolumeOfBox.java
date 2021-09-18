@@ -4,6 +4,10 @@ class Box{
     double width;
     double height;
     double depth;
+    //Creating a Method
+    void volu(){
+        System.out.println("The Volume of the Box is:\t"+width*height*depth);
+    }
 }
 //This is the Main Method
 public class VolumeOfBox {
@@ -18,8 +22,9 @@ public class VolumeOfBox {
         b1.height= sc.nextInt();
         System.out.println("Enter the Depth of the Box:");
         b1.depth=sc.nextInt();
-        vol= b1.depth*b1.height*b1.width;
-        System.out.println("The volume of the box is:\n"+vol);
+        b1.volu();
+        //vol= b1.depth*b1.height*b1.width;
+       // System.out.println("The volume of the box is:\n"+vol);
     }
 
 }
