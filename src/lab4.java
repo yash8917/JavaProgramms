@@ -8,7 +8,8 @@ class Abc{
 
 public class lab4 {
     public static void main(String[] args) {
-        System.out.println();
+    Abc obj=new Abc();
+        System.out.println(obj.pi);
 
     }
 }
