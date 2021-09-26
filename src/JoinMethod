@@ -1,0 +1,16 @@
+class TestJoinMethod1 extends Thread{  
+ 
+  t1.join(1500);  
+ }catch(Exception e){System.out.println(e);}  
+  
+ t2.start();  
+ t3.start();  
+ }  
+}  
+
+
+
+
+
+
+.
