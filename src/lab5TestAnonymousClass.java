@@ -24,25 +24,25 @@
 //----------------------------------------------------------------------------=--------
 //java 1.7
 //interface Example
-interface i1
-{
-    public static final int a=0;
-    public abstract void m1(){
-        System.out.println("Hello");
-    }
-}
-class one implements i1{
-
-}
-public class Lab5TestAnonymousClass{
-    public static void main(String[] args) {
-        i1 obj=new i1() {
-            @Override
-            public void m1() {
-                System.out.println("welcome");
-            }
-        };
-
-    }
-
-}
+//interface i1
+//{
+//    public static final int a=0;
+//    public abstract void m1(){
+//        System.out.println("Hello");
+//    }
+//}
+//class one implements i1{
+//
+//}
+//public class Lab5TestAnonymousClass{
+//    public static void main(String[] args) {
+//        i1 obj=new i1() {
+//            @Override
+//            public void m1() {
+//                System.out.println("welcome");
+//            }
+//        };
+//
+//    }
+//
+//}
