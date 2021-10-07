@@ -23,7 +23,7 @@
 //}
 //----------------------------------------------------------------------------=--------
 //java 1.7
-//interface Example
+//interface Example             -----> interface me constructer create nhi kr skte coz there is no instance variable
 //interface i1
 //{
 //    public static final int a=0;
