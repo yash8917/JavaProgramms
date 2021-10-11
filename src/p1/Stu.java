@@ -12,4 +12,5 @@ public class Stu extends Person{
 //        this.age=age;         to solve the redundancy of code we use super statement
 //        this.name=name;
     }
+
 }
