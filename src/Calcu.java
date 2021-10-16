@@ -18,6 +18,7 @@ class Calculator{
         return Math.pow(num1, num2);
     }//End of the method
 }//End of the class
+
 public class Calcu {
     public static void main(String[] args) {
         Calculator p1=new Calculator();
