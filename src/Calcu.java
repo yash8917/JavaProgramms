@@ -22,6 +22,7 @@ class Calculator{
 public class Calcu {
     public static void main(String[] args) {
         Calculator p1=new Calculator();
+        
         //calling the static block
         System.out.println(p1.PowerInt(2,3));
         System.out.println(p1.PowerDoule(2.0,4.0));
