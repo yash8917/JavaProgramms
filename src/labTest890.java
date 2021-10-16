@@ -9,6 +9,7 @@ class child extends parent{
         System.out.println("welcome");
     }
 }
+
 public class labTest890 {
     public static void main(String[] args) {
         child.m1();
