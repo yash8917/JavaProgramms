@@ -21,6 +21,7 @@
 //        obj.calculateResult();
 //    }
 //}
+
 //----------------------------------------------------------------------------=--------
 //java 1.7
 //interface Example             -----> interface me constructer create nhi kr skte coz there is no instance variable
