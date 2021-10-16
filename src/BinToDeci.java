@@ -8,7 +8,6 @@ public class BinToDeci {
 
         System.out.print("Input a Decimal Number : ");
         dec_num = scan.nextInt();
-
         quot = dec_num;
 
         while(quot != 0)
