@@ -15,7 +15,6 @@ public class BinToDeci {
             bin_num[i++] = quot%2;
             quot = quot/2;
         }
-
         System.out.print("Binary number is: ");
         for(j=i-1; j>0; j--)
         {
