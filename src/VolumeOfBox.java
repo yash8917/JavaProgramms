@@ -9,6 +9,7 @@ class Box{
         System.out.println("The Volume of the Box is:\t"+width*height*depth);
     }
 }
+
 //This is the Main Method
 public class VolumeOfBox {
     public static void main(String[] args) {
