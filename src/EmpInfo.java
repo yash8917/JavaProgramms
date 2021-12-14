@@ -6,6 +6,7 @@
 import java.lang.*;
 import java.util.Scanner;
 
+
 class Employee{
     //Creating the instance variable.
     float salary,hr,x;
