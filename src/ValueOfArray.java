@@ -17,7 +17,6 @@ class GFG {
                 break;
             }
         }
-
         // Print the result
         System.out.println("Is " + toCheckValue
                 + " present in the array: " + test);
