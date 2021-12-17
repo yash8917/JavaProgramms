@@ -21,7 +21,6 @@
 //        }
 //    }
 //}
-
 // use of static
 
 public class Lab3 {
