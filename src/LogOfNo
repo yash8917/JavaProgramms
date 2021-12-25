@@ -1,5 +1,6 @@
 public class LogOfNo    
 {    
+
     public static void main(String[] args)     
     {    
         double x = 28;    
