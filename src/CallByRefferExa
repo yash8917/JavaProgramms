@@ -4,7 +4,7 @@ class CallByReffer{
  void change(int data){  
  data=data+100;//changes will be in the local variable only  
  }  
-     
+  
  public static void main(String args[]){  
    CallByReffer op=new CallByReffer();  
   
