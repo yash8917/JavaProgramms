@@ -22,3 +22,4 @@ s=new Triangle();
 s.draw();  
 }  
 }  
+
