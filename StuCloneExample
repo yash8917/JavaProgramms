@@ -24,3 +24,4 @@ System.out.println(s2.rollno+" "+s2.name);
   
 }  
 }  
+
