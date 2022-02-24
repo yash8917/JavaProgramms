@@ -23,10 +23,8 @@ a [i] = sc.nextint();
 
 System.out.println ("The array elements are");
 
-for ( i=0;i<a.length;i++)
-
+for ( i=0;i<a.length;i++
 {
-
 System.out.println ( a[ i ] + " " ) ;
 
 }
