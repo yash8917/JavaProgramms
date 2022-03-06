@@ -20,6 +20,7 @@ class GFG {
         // Print the result
         System.out.println("Is " + toCheckValue
                 + " present in the array: " + test);
+        
     }
 
     public static void main(String[] args)
