@@ -4,6 +4,7 @@ import java.util.stream.IntStream;
 class GFG {
     // Function return true if given element
     // found in array
+    
     private static void check(int[] arr, int toCheckValue)
     {
         // check if the specified element
