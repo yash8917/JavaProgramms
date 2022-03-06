@@ -2,9 +2,7 @@ import java. util. *
 
 class True_false{
 public static void main ( String args [] )
-
 {
-
 Scanner sc = new Scanner ( System.in ) ;
 
 int i, k=0 ;
