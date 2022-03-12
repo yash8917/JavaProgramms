@@ -12,7 +12,6 @@ int a [] = new int [ ] ;
 System.out.println (" Enter the array elements ");
 
 for ( i=0;i<a.length;i++)
-
 {
 
 a [i] = sc.nextint();
