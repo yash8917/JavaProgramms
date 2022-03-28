@@ -1,7 +1,6 @@
 class Student{
     String name;
     float pr;
-
     public Student(String name, float pr) {
         this.name = name;
         this.pr = pr;
